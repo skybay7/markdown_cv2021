@@ -1,23 +1,18 @@
-nimo-markdown-cv
+markdown-cv
 ================
 
-<p align="center">
-<img src="assets/README-63bf9.png" width="700">
-</p>
 
 A curriculum vitae template that lets you write your cv in Markdown and supports both HTML and PDF output formats. To generate the cv, we use [Jekyll](https://jekyllrb.com/).
 
 The project is a fork from [markdown-cv](http://elipapa.github.io/markdown-cv) and the usage is essentially the same. We only provide an alternative styling theme.
 
-See Live example of this template [here](http://wodenimoni.com/nimo-markdown-cv/).
+See Live example of this template [here](http://skybay7.github.co/md_cv/).
 
 ***
 
 ## Getting started
 
 To start, simply [fork the nimo-markdown-cv repo](https://github.com/wodeni/nimo-markdown-cv)
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 Your resume content will be contained in `index.md`, which has an example cv. Start by modifying `index.md`! To see the result, you have two options:
 
