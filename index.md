@@ -40,7 +40,6 @@ London, UK
 Hsinchu, Taiwan
 ```
 - Exchange student in Electical engineering department
-- Vision, Graphics track
 
 ### **Shandong University** `2011.9 - 2015.7`
 
