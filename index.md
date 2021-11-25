@@ -2,11 +2,13 @@
 layout: cv
 title: simin 
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: simin.yang@qmul.ac.uk
+  text: simin.yang@qmul.ac.uk
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://siminyang6.wordpress.com
+  text: https://siminyang6.wordpress.com
+phone: 
+  text: +8617662565061
 ---
 
 # Simin **Yang**  杨思敏
@@ -23,31 +25,30 @@ Supported arguments:
 
 ## Education
 
-### **Queen Mary University of London** `2018.9 -`
+### **Queen Mary University of London** `2015.9 -`
 
 ```
-Pittsburgh, PA
+London, UK
 ```
 
-- Ph.D. in Software Engineering
+- Ph.D. in Electrical Engineering, Center for Digital Music group, School of Electronic Engineering and Computer Science
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
+### **National Tsinghua University** `2013.2 - 2013.8`
 
 ```
-New York, NY
+Hsinchu, Taiwan
 ```
-
-- B.S. in Computer Science, _Magna Cum Laude_
+- Exchange student in Electical engineering department
 - Vision, Graphics track
 
-### **Dickinson College** `2013.9 - 2016.5`
+### **Shandong University** `2011.9 - 2015.7`
 
 ```
-Carlisle, PA
+Jinan, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
+- B.S. in , _Summa Cum Laude_
 - Computer Science Departmental Honors
 
 ## Publications
