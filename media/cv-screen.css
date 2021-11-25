@@ -157,7 +157,8 @@ h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
   /* font-size: 50pt; */
-  font-size: 600%;
+/*   font-size: 600%; */
+  font-size: 300%;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
