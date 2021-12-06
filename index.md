@@ -17,14 +17,16 @@ phone:
 <!--
 include contact information from the front matter
 Supported arguments:
+
     - homepage: url, text
-    - phone
-    - email
--->
+        - phone
+        - email
+            -->
 
 {% include cv-contact.html %}
 
 ## Skills
+- [cv preview](https://skybay7.github.io/markdown_cv2021/)
 - 对NLP, 时间序列方面有浓厚兴趣, 且有相关项目.
 - 熟练使用python进行机器学习 (Pandas, Scikit-learn, pytorch) , 概率, 统计(mat)方面的实现.
 - 良好的写作与表达能力, 曾在国际会议上发表相关领域顶刊论文, 且多次口头报告
@@ -40,7 +42,7 @@ London, UK
 - Ph.D. in Electrical Engineering, Center for Digital Music group, School of Electronic Engineering and Computer Science
 - Co-advised by [Dr. Mathieu Barthet](http://www.eecs.qmul.ac.uk/profiles/barthetmathieu.html) 
  and  [Prof. Elaine Chew](https://elainechew-research.blogspot.com/) 
-- Thesis: 现场音乐情绪感知的一致性与差异性 (Understanding Agreement and Disagreement in Listeners’Perceived Emotion in Live Music Performance) [viva slices]()
+- Thesis: 现场音乐情绪感知的一致性与差异性 (Understanding Agreement and Disagreement in Listeners’Perceived Emotion in Live Music Performance) [viva on 2020.6.4]()
 
 ### **National Tsinghua University** `2013.2 - 2013.8`
 
@@ -61,7 +63,20 @@ Jinan, China
 
 ## Publications
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
+ 
+
+### [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)
+
+**Simin Yang**, Courtney N. Reed, Elaine Chew, Mathieu Barthet <br>
+
+*In IEEE Transactions on Affective Computing (IF=7.51), 2021*
+
+[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)]
+
+[[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
+
+### reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
+
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
