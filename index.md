@@ -71,9 +71,7 @@ Jinan, China
 
 *In IEEE Transactions on Affective Computing (IF=7.51), 2021*
 
-[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)]
-
-[[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
+[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)] [[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
 
 ### reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
 
