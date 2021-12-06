@@ -7,7 +7,8 @@ email:
 homepage:
   url: https://siminyang6.wordpress.com
   text: https://siminyang6.wordpress.com
-phone: +86-17662565061
+phone:
+  text: +86-17662565061
 ---
 
 # Simin **Yang**  杨思敏
@@ -15,13 +16,13 @@ phone: +86-17662565061
 <!--
 include contact information from the front matter
 Supported arguments:
-
     - homepage: url, text
     - phone
     - email
-            -->
+-->
 
 {% include cv-contact.html %}
+
 
 ## Skills
 - [cv preview](https://skybay7.github.io/markdown_cv2021/)
