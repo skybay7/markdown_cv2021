@@ -4,12 +4,15 @@ title: simin
 email:
   url: simin.yang@qmul.ac.uk
   text: simin.yang@qmul.ac.uk
+email:
+  text: simin.yang@qmul.ac.uk
+email: simin.yang@qmul.ac.uk
 homepage:
   url: https://siminyang6.wordpress.com
   text: https://siminyang6.wordpress.com
 phone: 
-  url:17662565061
-  text:17662565061
++86-17662565061
+
 ---
 
 # Simin **Yang**  杨思敏
