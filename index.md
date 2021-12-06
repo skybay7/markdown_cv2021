@@ -22,7 +22,9 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
-
+## Skills
+- 熟练使用python进行数据处理 (pandas,numpy), 进行机器学习, 概率, 统计方面的应用.
+- 良好的写作与表达能力, 曾在国际会议上发表相关领域顶刊论文, 且多次口头报告
 ## Education
 
 ### **Queen Mary University of London** `2015.9 -`
@@ -32,8 +34,8 @@ London, UK
 ```
 
 - Ph.D. in Electrical Engineering, Center for Digital Music group, School of Electronic Engineering and Computer Science
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
+- Co-advised by [Mathieu Barthet](http://pact.cs.cmu.edu/koedinger.html) and [Elaine Chew](http://www.cs.cmu.edu/~jssunshi/)
+•	Thesis: 现场音乐情绪感知的一致性与差异性 (Understanding Agreement and Disagreement in Listeners’Perceived Emotion in Live Music Performance) [viva slices]
 ### **National Tsinghua University** `2013.2 - 2013.8`
 
 ```
@@ -47,8 +49,9 @@ Hsinchu, Taiwan
 Jinan, China
 ```
 
-- B.S. in , _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.E, Electronic Information Engineering
+- GPA: 89.9/100 -Ranking: 3/86
+- 连续两年获得国家奖学金
 
 ## Publications
 
