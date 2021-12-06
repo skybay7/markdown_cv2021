@@ -8,8 +8,8 @@ homepage:
   url: https://siminyang6.wordpress.com
   text: https://siminyang6.wordpress.com
 phone: 
-  url:(+86)17662565061
-  text:(+86)17662565061
+  url:17662565061
+  text:17662565061
 ---
 
 # Simin **Yang**  杨思敏
@@ -58,26 +58,28 @@ Jinan, China
 ```
 
 - B.E, Electronic Information Engineering
+
 - GPA: 89.9/100 -Ranking: 3/86
+
 - 连续两年获得国家奖学金
+
+  
 
 ## Publications
 
- 
-
-### [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)
+### 1. [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)
 
 **Simin Yang**, Courtney N. Reed, Elaine Chew, Mathieu Barthet <br>
 
 *In IEEE Transactions on Affective Computing (IF=7.51), 2021*
 
-[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)]
+[[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])] [[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)]
 
-[[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
+
 
 ### reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
 
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
+**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br>
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
