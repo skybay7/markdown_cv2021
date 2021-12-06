@@ -9,6 +9,7 @@ homepage:
   text: https://siminyang6.wordpress.com
 phone: 
   text: +8617662565061
+  url: +8617662565061
 ---
 
 # Simin **Yang**  杨思敏
@@ -23,11 +24,12 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-### Skills
+## Skills
+- 对NLP, 时间序列方面有浓厚兴趣, 且有相关项目.
 - 熟练使用python进行机器学习 (Pandas, Scikit-learn, pytorch) , 概率, 统计(mat)方面的实现.
 - 良好的写作与表达能力, 曾在国际会议上发表相关领域顶刊论文, 且多次口头报告
 
-### Education
+## Education
 
 ### **Queen Mary University of London** `2015.9 -`
 
@@ -36,8 +38,8 @@ London, UK
 ```
 
 - Ph.D. in Electrical Engineering, Center for Digital Music group, School of Electronic Engineering and Computer Science
-- Co-advised by [Mathieu Barthet](http://www.eecs.qmul.ac.uk/profiles/barthetmathieu.html) 
- and  [Elaine Chew](https://elainechew-research.blogspot.com/) 
+- Co-advised by [Dr. Mathieu Barthet](http://www.eecs.qmul.ac.uk/profiles/barthetmathieu.html) 
+ and  [Prof. Elaine Chew](https://elainechew-research.blogspot.com/) 
 - Thesis: 现场音乐情绪感知的一致性与差异性 (Understanding Agreement and Disagreement in Listeners’Perceived Emotion in Live Music Performance) [viva slices]()
 
 ### **National Tsinghua University** `2013.2 - 2013.8`
