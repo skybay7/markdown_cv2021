@@ -7,8 +7,7 @@ email:
 homepage:
   url: https://siminyang6.wordpress.com
   text: https://siminyang6.wordpress.com
-phone: 
-  text: +8617662565061
+phone: +8617662565061
 ---
 
 # Simin **Yang**  杨思敏
@@ -22,10 +21,12 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
-## Skills
+
+### Skills
 - 熟练使用python进行数据处理 (pandas,numpy), 进行机器学习, 概率, 统计方面的应用.
 - 良好的写作与表达能力, 曾在国际会议上发表相关领域顶刊论文, 且多次口头报告
-## Education
+
+### Education
 
 ### **Queen Mary University of London** `2015.9 -`
 
