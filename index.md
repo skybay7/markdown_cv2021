@@ -34,7 +34,7 @@ Supported arguments:
 
 ## Education
 
-### **Queen Mary University of London** `2015.9 -`
+#### **Queen Mary University of London** `2015.9 -`
 
 ```
 London, UK
@@ -63,18 +63,17 @@ Jinan, China
 - 连续两年获得国家奖学金
 
 ## Publications
-
- 
-
-### [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)
-
-**Simin Yang**, Courtney N. Reed, Elaine Chew, Mathieu Barthet <br>
-
-*In IEEE Transactions on Affective Computing (IF=7.51), 2021*
-
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
+1.__Simin Yang__, Courtney N. Reed, Elaine Chew, Mathieu Barthet, [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf), *In IEEE Transactions on Affective Computing (IF=7.51), 2021*<br>
 [[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)] [[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
 
-### reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
+2.reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
+3. 
 
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
