@@ -9,8 +9,13 @@ homepage:
   text: https://siminyang6.wordpress.com
 phone: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 +86-17662565061
 
+=======
+  url:(+86)17662565061
+  text:(+86)17662565061
+>>>>>>> parent of 2932188 (Update index.md)
 =======
   url:(+86)17662565061
   text:(+86)17662565061
