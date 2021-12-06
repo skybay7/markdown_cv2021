@@ -7,19 +7,7 @@ email:
 homepage:
   url: https://siminyang6.wordpress.com
   text: https://siminyang6.wordpress.com
-phone: 
-<<<<<<< HEAD
-<<<<<<< HEAD
-+86-17662565061
-
-=======
-  url:(+86)17662565061
-  text:(+86)17662565061
->>>>>>> parent of 2932188 (Update index.md)
-=======
-  url:(+86)17662565061
-  text:(+86)17662565061
->>>>>>> parent of 2932188 (Update index.md)
+phone: +86-17662565061
 ---
 
 # Simin **Yang**  杨思敏
@@ -29,8 +17,8 @@ include contact information from the front matter
 Supported arguments:
 
     - homepage: url, text
-        - phone
-        - email
+    - phone
+    - email
             -->
 
 {% include cv-contact.html %}
