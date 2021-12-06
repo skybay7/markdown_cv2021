@@ -8,8 +8,8 @@ homepage:
   url: https://siminyang6.wordpress.com
   text: https://siminyang6.wordpress.com
 phone:
-  url: (86)17662565061
-  text: (86)17662565061
+  url: "(86)17662565061"
+  text: "(86)17662565061"
   
 ---
 
