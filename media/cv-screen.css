@@ -132,7 +132,7 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 120%;
+  font-size: 12px;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
@@ -177,17 +177,18 @@ h2 {
   font-family: "Avenir Next", sans-serif;
   /* font-size: 20pt; */
 /*  font-size: 200%; */
-  font-size: 150%;
+  font-size: 110%;
   text-align: center;
   font-weight: normal;
   display: flex;
   /* line-height: 1.5em; */
   margin-top: 0.7em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.0em;
   width: 100%;
+  color:cornflowerblue
 }
 h2:after {
-  border-bottom: 1.7px dashed #d3d3d3;
+  border-bottom: 1.7px dashed #6495ED;
   /* height: 0.8em; */
   margin-left: 10px;
   content: "";
