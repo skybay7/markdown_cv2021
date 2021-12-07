@@ -110,7 +110,7 @@ body {
 }
 ol,
 ul {
-  list-style: none;
+ 
 }
 blockquote,
 q {
@@ -246,10 +246,12 @@ li {
   h3 {
     page-break-after: avoid;
   }
+ 
+
 }
 
 a {
-  text-decoration: none;
+ 
   color: rgb(151, 94, 20);
 }
 

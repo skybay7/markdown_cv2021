@@ -85,7 +85,7 @@ mark,
 audio,
 video {
   margin: 0;
-  padding: 0;
+  /*padding: 0;*/
   border: 0;
   font-size: 100%;
   font: inherit;
@@ -110,7 +110,6 @@ body {
 }
 ol,
 ul {
-  list-style: none;
 }
 blockquote,
 q {
@@ -210,15 +209,15 @@ code {
 }
 
 li:before {
-  content: "-";
+  
   position: relative;
   left: -0.5em;
 }
 
 li {
   /*second line indent*/
-  padding-left: 2.25em;
-  text-indent: -1.25em;
+  /*padding-left: 2.25em;*/
+  /*text-indent: -1.25em; */
   /*color: #777;*/
 }
 
