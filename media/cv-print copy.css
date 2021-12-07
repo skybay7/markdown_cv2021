@@ -85,7 +85,7 @@ mark,
 audio,
 video {
   margin: 0;
-  /* padding: 0; */
+  padding: 0;
   border: 0;
   font-size: 100%;
   font: inherit;
@@ -132,12 +132,11 @@ table {
 
 body {
   font: normal normal 400;
-  font-size: 11px;
+  font-size: 11pt;
   line-height: 1.5em;
   /*also written as...  font: normal normal 400 100%/1.5em;*/
   font-family: "Helvetica", sans-serif;
-  margin: 0.5in 0.5in 0.5in 0.5in;
-/*   margin: 0.5in 0.5in 0.5in 0.5in; */
+  /* margin: 0.5in 0.5in 0.5in 0.5in */
   /* margin-top: 1em;
 	margin-left: 1em; */
 }
@@ -157,9 +156,7 @@ em {
 h1 {
   font-family: "Avenir Next", sans-serif;
   text-align: center;
-  /* font-size: 50pt; */
-/*   font-size: 600%; */
-  font-size: 130%;
+  font-size: 50pt;
   font-weight: lighter;
   position: relative;
   line-height: 1.2em;
@@ -175,20 +172,17 @@ h1 strong {
 /* Section headers */
 h2 {
   font-family: "Avenir Next", sans-serif;
-  /* font-size: 20pt; */
-/*  font-size: 200%; */
-  font-size: 110%;
+  font-size: 20pt;
   text-align: center;
   font-weight: normal;
   display: flex;
   /* line-height: 1.5em; */
   margin-top: 0.7em;
-  margin-bottom: 0.0em;
+  margin-bottom: 0.5em;
   width: 100%;
-  color:cornflowerblue
 }
 h2:after {
-  border-bottom: 1.7px dashed #6495ED;
+  border-bottom: 1.7px dashed #d3d3d3;
   /* height: 0.8em; */
   margin-left: 10px;
   content: "";
@@ -210,15 +204,15 @@ code {
 }
 
 li:before {
-  /* content: "-"; */
+  content: "-";
   position: relative;
   left: -0.5em;
 }
 
 li {
   /*second line indent*/
-  /* padding-left: 2.25em; */
-  /* text-indent: -1.25em; */
+  padding-left: 2.25em;
+  text-indent: -1.25em;
   /*color: #777;*/
 }
 
@@ -228,13 +222,11 @@ li {
   font-weight: lighter;
   color: #ccc;
   /* font-family: Menlo,monospace,sans-serif; */
-  font-size: 80%;
 }
 
 #contact-info a {
   text-decoration: none;
 }
-
 
 @media print {
   p {
@@ -261,5 +253,3 @@ a {
     visibility: hidden;
   }
 }
-
-
