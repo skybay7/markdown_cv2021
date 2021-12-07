@@ -1,35 +1,28 @@
 ---
 layout: cv
 title: simin 
+email:
+  url: simin.yang@qmul.ac.uk
+  text: simin.yang@qmul.ac.uk
+homepage:
+  url: https://siminyang6.wordpress.com
+  text: https://siminyang6.wordpress.com
+phone: 17662565061
 ---
 
+# Simin **Yang**  杨思敏
 
-<div style="margin-bottom: 15px;margin-top: 20px">
-    <div style="width:80%; display:inline-block;vertical-align: top;">
-        <div style="text-align:center">
-            <h3 style="font-size: 30px">
-            Simin Yang  杨思敏
-            </h3>
-            <br>
-        </div>
-        <div id="contact-info">
-            <i class="fi-telephone" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em">17662565061</a>
-            <i class="fi-mail" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em"> simin.yang@qmul.ac.uk</a> 
-            <i class="fi-home" style="margin-left:1em"></i>
-            <a href="https://siminyang6.wordpress.com" style="margin-left:0.5em">https://siminyang6.wordpress.com</a>
-            <br>
-            <i class="fa fa-user" style="margin-left:1em"></i>
-            <a href="#" style="margin- left:0.5em " Font size =" 10px "> postiion: quant researcher</a>
-        </div>
-    </div>
-    <div style="float: right;display: flex；vertical-align: top;">
-        <div style="width:60px;height:80px;">
-            <img src="re.jpg" style="width:60px;height:80px">
-        </div>
-    </div>
-</div>
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
+
+{% include cv-contact.html %}
+
+
 ## Skills
 - [cv preview](https://skybay7.github.io/markdown_cv2021/)
 - 对NLP, 时间序列方面有浓厚兴趣, 且有相关项目.
