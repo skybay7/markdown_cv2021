@@ -8,7 +8,7 @@ title: simin
     <div style="width:80%; display:inline-block;vertical-align: top;">
         <div style="text-align:center">
             <h3 style="font-size: 30px">
-            Simin Yang  杨思敏
+            Simin Yang  杨思敏 ongoing
             </h3>
             <br>
         </div>

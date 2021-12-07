@@ -250,8 +250,10 @@ li {
 
 a {
   text-decoration: none;
-  color: rgb(20, 116, 151);
+  color: rgb(151, 94, 20);
 }
+
+
 
 @media print {
   hr {
