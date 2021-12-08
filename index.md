@@ -8,13 +8,13 @@ title: simin
     <div style="width:80%; display:inline-block;vertical-align: top;">
         <div style="text-align:center">
             <h3 style="font-size: 36px">
-            Simin **Yang** 
+            Simin <strong>Yang</strong>
             </h3>
             <br>
         </div>
         <div id="contact-info">
             <i class="fi-telephone" style="margin-left:1em"></i>
-            <a href="#" style="margin-left:0.5em">17662565061</a>
+            <a href="#" style="margin-left:0.5em">(+86)17662565061</a>
             <i class="fi-mail" style="margin-left:1em"></i>
             <a href="#" style="margin-left:0.5em"> simin.yang@qmul.ac.uk</a> 
             <i class="fi-home" style="margin-left:1em"></i>
@@ -67,18 +67,12 @@ Jinan, China
 
 
 ## Publications
-<ol>
-  <li>**Simin Yang**, Courtney N. Reed, Elaine Chew, Mathieu Barthet, [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf), *In IEEE Transactions on Affective Computing (IF=7.51), 2021*<br>
-[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)] [[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ol>
 
+1. [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf), *In IEEE Transactions on Affective Computing (IF=7.51), 2021* <br>
+**Simin Yang**, Courtney N. Reed, Elaine Chew, Mathieu Barthet <br>
+[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)] [[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
 
-2.reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
-
-
+2. reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
 [[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
