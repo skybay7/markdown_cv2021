@@ -7,8 +7,8 @@ title: simin
 <div style="margin-bottom: 15px;margin-top: 20px">
     <div style="width:80%; display:inline-block;vertical-align: top;">
         <div style="text-align:center">
-            <h3 style="font-size: 30px">
-            Simin Yang  杨思敏 ongoing
+            <h3 style="font-size: 36px">
+            Simin **Yang** 
             </h3>
             <br>
         </div>
@@ -38,7 +38,7 @@ title: simin
 
 ## Education
 
-#### **Queen Mary University of London** `2015.9 -`
+#### **Queen Mary University of London** `2015.9 - 2022.1 (expected)`
 
 ```
 London, UK
@@ -47,14 +47,14 @@ London, UK
 - Ph.D. in Electrical Engineering, Center for Digital Music group, School of Electronic Engineering and Computer Science
 - Co-advised by [Dr. Mathieu Barthet](http://www.eecs.qmul.ac.uk/profiles/barthetmathieu.html) 
  and  [Prof. Elaine Chew](https://elainechew-research.blogspot.com/) 
-- Thesis: 现场音乐情绪感知的一致性与差异性 (Understanding Agreement and Disagreement in Listeners’Perceived Emotion in Live Music Performance) [viva on 2020.6.4]()
+- Thesis: 现场音乐情绪感知的一致性与差异性 (Understanding Agreement and Disagreement in Listeners’Perceived Emotion in Live Music Performance) [viva passed, currently on thesis final correction]()
 
 ### **National Tsinghua University** `2013.2 - 2013.8`
 
 ```
 Hsinchu, Taiwan
 ```
-- Exchange student in Electical engineering department
+- Exchange Student in Electical Engineering Department
 
 ### **Shandong University** `2011.9 - 2015.7`
 
@@ -64,20 +64,20 @@ Jinan, China
 
 - B.E, Electronic Information Engineering
 - GPA: 89.9/100 -Ranking: 3/86
-- 连续两年获得国家奖学金
+
 
 ## Publications
 <ol>
-  <li>First item</li>
+  <li>**Simin Yang**, Courtney N. Reed, Elaine Chew, Mathieu Barthet, [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf), *In IEEE Transactions on Affective Computing (IF=7.51), 2021*<br>
+[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)] [[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]</li>
   <li>Second item</li>
   <li>Third item</li>
   <li>Fourth item</li>
 </ol>
-1.__Simin Yang__, Courtney N. Reed, Elaine Chew, Mathieu Barthet, [**Examining Emotion Perception Agreement in Live Music Performance**](https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf), *In IEEE Transactions on Affective Computing (IF=7.51), 2021*<br>
-[[IEEE Early Access](https://ieeexplore.ieee.org/document/9468946)] [[PDF]((https://siminyang6.files.wordpress.com/2021/07/journalpaper_tac_preprint_0628.pdf)])]
+
 
 2.reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example
-3. 
+
 
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
 _In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
